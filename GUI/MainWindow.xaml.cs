@@ -70,7 +70,7 @@ namespace GUI
             pnlEditSubjectView.Visibility = Visibility.Hidden;
         }
 
-        private void btnÓpenAddCurriculumView_Click(object sender, RoutedEventArgs e)
+        private void btnOpenAddCurriculumView_Click(object sender, RoutedEventArgs e)
         {
             var vm = DataContext as ViewModel;
             if (vm == null)

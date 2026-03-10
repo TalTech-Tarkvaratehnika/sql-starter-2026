@@ -31,7 +31,7 @@
                                 </GridView>
                             </ListView.View>
                         </ListView>
-                        <Button Grid.Row="2" Width="150" Height="30" HorizontalAlignment="Right" Name="btnÓpenAddCurriculumView" Content="Lisa õppekava" Click="btnÓpenAddCurriculumView_Click"/>
+                        <Button Grid.Row="2" Width="150" Height="30" HorizontalAlignment="Right" Name="btnOpenAddCurriculumView" Content="Lisa õppekava" Click="btnOpenAddCurriculumView_Click"/>
                     </Grid>
                 </TabItem>
                 <TabItem Header="Õppeained">
